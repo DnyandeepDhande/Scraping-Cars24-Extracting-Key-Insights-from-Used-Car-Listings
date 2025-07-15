@@ -2,8 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  
 [![Libraries](https://img.shields.io/badge/Libraries-pandas%2C%20numpy%2C%20matplotlib%2C%20seaborn%2C%20BeautifulSoup-orange)]()  
-[![License](https://img.shields.io/badge/License-MIT-green)]()  
-[![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)]()
 
 This project scrapes **Cars24** used car listings to extract, clean, and analyze key data points.  
 The analysis reveals **price trends, brand performance, and mileage correlations**, providing valuable insights for car buyers, sellers, and automotive market researchers.
@@ -90,7 +88,6 @@ Use the EDA notebook to generate charts and extract insights.
 ✅ **Mileage vs. Price** – Correlation between mileage and price  
 ✅ **Fuel Type Trends** – Dominant fuel types in resale market  
 
-*(Charts are available in the `images/` folder)*
 
 ---
 
